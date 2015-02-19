@@ -43,7 +43,7 @@ COMMING SOON PAGE
             seconds.html('<h1>'+s+'</h1><p>Second'+(s>1?'s':''),'</p>');
             setTimeout(setDate, 1000);
 
-            message.html('JOIN US IN');
+            message.html('JOIN US ON <b>AUGUST 30th 2015</b>');
         }
     }
 })(jQuery);
